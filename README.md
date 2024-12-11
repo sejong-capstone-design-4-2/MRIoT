@@ -2,7 +2,7 @@
 ![MRIoT Dashboard](https://github.com/sejong-capstone-design-4-2/MRIoT/blob/main/MRIoT_Dashboard.png?raw=true)
 
 ## Installation
- 
+ 추후 Docker를 통한 통합적인 배포 제공 예정
 ```
 sudo apt update
 sudo apt upgrade -y
