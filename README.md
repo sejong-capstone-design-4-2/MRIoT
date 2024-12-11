@@ -1,4 +1,5 @@
 # MRIoT
+![MRIoT Dashboard](https://github.com/sejong-capstone-design-4-2/MRIoT/blob/main/MRIoT_Dashboard.png?raw=true)
 
 ## Installation
  
